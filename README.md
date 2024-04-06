@@ -1,6 +1,6 @@
 # Рецепты
 
 - **Брауни**
-- Банановые панкейки - https://github.com/funknownya/Recipes/blob/master/banana.md
+- Банановые панкейки - [Брауни](brownie.md)
 - Картофель «Айдахо» - [Айдахо](aidaho.md)
 - Банановый хлеб - [Банановый](banana.md)
